@@ -1,0 +1,6 @@
+C:\Users\Crystal\Desktop\StringUtility\StringUtility\StringUtility\bin\Debug\StringUtility.exe.config
+C:\Users\Crystal\Desktop\StringUtility\StringUtility\StringUtility\bin\Debug\StringUtility.exe
+C:\Users\Crystal\Desktop\StringUtility\StringUtility\StringUtility\bin\Debug\StringUtility.pdb
+C:\Users\Crystal\Desktop\StringUtility\StringUtility\StringUtility\obj\Debug\StringUtility.exe
+C:\Users\Crystal\Desktop\StringUtility\StringUtility\StringUtility\obj\Debug\StringUtility.pdb
+C:\Users\Crystal\Desktop\StringUtility\StringUtility\StringUtility\obj\Debug\StringUtility.csprojResolveAssemblyReference.cache
